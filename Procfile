@@ -1,2 +1,2 @@
-web: waitress-serve --port=$PORT replace.wsgi:application
+web: waitress-serve --port=$PORT think.wsgi:application
 
